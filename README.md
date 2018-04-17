@@ -1,12 +1,11 @@
 # Vue JS + Vuex + TypeScript + webpack 4
 
-> A Vue 2.5, Vuex 3.0, Webpack 4.2, Typescript 2.8, Bootstrap 4.1 setup with hot reload, dynamic imports, unit testing, 
+> A Vue 2.5, Vuex 3.0, Webpack 4.2, Typescript 2.8, Bootstrap 4.1 setup with hot reload, dynamic imports, unit testing,
 code coverage, sass and bundling/minification.
 
-Inspired by https://github.com/ducksoupdev/vue-webpack-typescript
-Added Vuex store, vue-meta (https://github.com/declandewet/vue-meta) - useful tool
+Inspired by <https://github.com/ducksoupdev/vue-webpack-typescript>
+Added Vuex store, vue-meta (<https://github.com/declandewet/vue-meta)> - useful tool
 for add meta info to your pages (title, meta tags etc.)
-
 
 > See the [changelog](CHANGELOG.md) for updates.
 
@@ -21,7 +20,7 @@ $ cd my-project
 $ npm install
 $ npm run dev
 ```
-By default, http://localhost:3000/
+By default, <http://localhost:3000/>
 
 ### What's Included
 
