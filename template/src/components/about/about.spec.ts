@@ -27,7 +27,7 @@ describe('About component', () => {
     directiveTest.createComponent();
 
     await directiveTest.execute((vm) => {
-      expect(vm.$el.querySelector('.repo-link').getAttribute('href')).to.equal('https://github.com/ducksoupdev/vue-webpack-typescript');
+      expect(vm.$el.querySelector('.repo-link').getAttribute('href')).to.equal('https://github.com/BegeMode/vue-vuex-typescript-webpack');
       assert.calledWith(loggerSpy, 'about is ready!');
     });
   });
